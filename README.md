@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Badges: https://github.com/Ileriayo/markdown-badges#store -->
 
 <details>
-  <summary><b>Frameworks, Platforms and Librairies</b></summary>
+  <summary><b>Frameworks, Platforms and Libraries</b></summary>
 
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh)
